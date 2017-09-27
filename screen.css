@@ -64,5 +64,15 @@ h1 {
 
 p {
   font-size: 4em;
-  color: #blue;
+  color: #FF0000;
+}
+
+h2 {
+  font-size: 6em;
+  color: #808080;
+}
+
+p {
+  font-size: 4em;
+  color: #FF0000;
 }
