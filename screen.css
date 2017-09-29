@@ -69,10 +69,15 @@ p {
 
 h2 {
   font-size: 6em;
-  color: ##27AE60;
+  color: #27AE60;
 }
 
 p {
   font-size: 4em;
   color: #FF0000;
+}
+
+h3 {
+  font-size: 6em;
+  color: #27AE60;
 }
