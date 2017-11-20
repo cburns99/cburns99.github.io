@@ -26,7 +26,8 @@ ol, ul {
 
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+  border-color: #95A5A6 }
 
 caption, th, td {
   text-align: left;
@@ -47,7 +48,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #2a2a2a; }
+  color: #2a2a2a;
+  background-color: #95A5A6 }
 
 a {
   color: #0388a6; }
@@ -59,25 +61,30 @@ a {
 
 h1 {
   font-size: 8em;
-  color: #ff69b4;
+  color: #0E6655;
 }
 
 p {
-  font-size: 4em;
-  color: #FF0000;
+  font-size: 2em;
+  color: #17202A;
 }
 
 h2 {
   font-size: 6em;
-  color: #27AE60;
+  color: #FF5733;
 }
 
 p {
-  font-size: 4em;
-  color: #FF0000;
+  font-size: 2em;
+  color: #17202A;
 }
 
 h3 {
-  font-size: 6em;
-  color: #27AE60;
+  font-size: 4em;
+  color: #FF5733;
+}
+
+h4 {
+  font-size: 4em;
+  color: #FF5733;
 }
