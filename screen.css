@@ -60,31 +60,44 @@ a {
   padding: 50px; }
 
 h1 {
+  text-align: center;
   font-size: 10em;
   color: #0E6655;
 }
 
 p {
+  text-align: center;
   font-size: 2em;
   color: #17202A;
 }
 
 h2 {
+  text-align: center;
   font-size: 6em;
   color: #FF5733;
 }
 
 p {
+  text-align: center;
   font-size: 2em;
   color: #17202A;
 }
 
 h3 {
+  text-align: center;
   font-size: 3em;
   color: #FF5733;
 }
 
 h4 {
+  text-align: center;
   font-size: 3em;
   color: #FF5733;
 }
+
+img {
+  align-content: center;
+  border-radius: 8px;
+  height: 500px;
+  width: 500px;
+  }
